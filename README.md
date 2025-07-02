@@ -6,7 +6,7 @@
 
 *I occasionally write tech blogs here https://rishabjoshi.com*
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishvin&show_icons=true&include_all_commits=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishvin&show_icons=true&include_all_commits=true&count_private=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishvin&layout=compact&langs_count=10)
 
