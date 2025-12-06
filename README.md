@@ -4,5 +4,3 @@ Hello 👋
 
 I'm a software engineer with experience building data-intensive and distributed systems at scale. I enjoy solving complex problems in data processing, databases, and AI—and I'm always eager to explore new technologies and turn ideas into impactful solutions.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishvin&show_icons=true&theme=transparent)
-
